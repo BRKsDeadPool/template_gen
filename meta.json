@@ -1,0 +1,10 @@
+{
+  "app_name": "XFind",
+  "main_color": "#800000",
+
+  "config": {
+    "input": "template",
+    "output": "build",
+    "separator": ["{{", "}}"]
+  }
+}
